@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AndersoLeyendo, i'm a junior BE developer
 - 👀 I’m interested in Python and PHP projects
-- 🌱 I’m currently learning PHP, but I wanna try with React
+- 🌱 I’m currently learning PHP and all the Server-Side env, but I wanna try with React 
