@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @AndersoLeyendo, i'm a junior BE developer
-- 👀 I’m interested in Python and PHP projects
-- 🌱 I’m currently learning PHP and all the Server-Side env, but I wanna try with React 
+Junior BE dev, Junior hater FE dev, so...fullstack dev? NO! FE is for artists who can't use their hands, and I'm not an artist...
+
+Currently working on php (laravel and twig), python and react project
+
+Life is small, mine is shorter, like my code :)
