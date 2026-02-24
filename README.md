@@ -1,5 +1,3 @@
-#### Junior fullstack dev
-
-> Maybe not Junior, but I often think about how much I suck but then I remember what I did
-
-Currently working on Laravel and Python
+Full-stack developer building products like infrastructure.
+Architect mindset. Founder energy.
+Laravel&Python — automation by default, overengineering as a service.
