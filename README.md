@@ -2,4 +2,4 @@
 
 **Architect mindset. Founder energy.**
 
-Laravel, Python, databases — automation by default, overengineering as a service.
+Laravel&Python — automation by default, overengineering as a service.
